@@ -60,6 +60,36 @@ Antes de publicar hay que rellenar estos huecos (están marcados en el código):
 4. **Dominio**: si va a un dominio propio (p. ej. `chatcrm.retuertographicdesign.com`),
    añadir un archivo `CNAME` con ese dominio en la raíz y apuntar el DNS a GitHub Pages.
 
+## Páginas de error
+
+`404.html`, `403.html`, `500.html` y `503.html` son páginas con la identidad
+del sitio: fondo oscuro, degradado de marca, el código grande y botones de
+vuelta. Son **autónomas a propósito** — no cargan `site.css`, ni los partials,
+ni `i18n.js` — porque si el sitio falla esas peticiones pueden fallar también.
+Llevan los dos idiomas dentro y eligen según el idioma guardado o el del
+navegador.
+
+Qué sirve GitHub Pages de verdad:
+
+| Archivo | ¿Lo usa Pages solo? |
+|---|---|
+| `404.html` | **Sí.** Cualquier ruta que no exista lo muestra automáticamente. |
+| `403.html`, `500.html`, `503.html` | **No.** Pages no deja personalizar esos errores. |
+
+GitHub Pages solo permite sustituir el 404. Los errores 5xx los genera su
+propia infraestructura (y son raros: pasan cuando GitHub tiene una incidencia),
+y ahí sale su página, no la nuestra. No hay forma de evitarlo con archivos del
+repositorio. Las tres páginas extra sirven igualmente para:
+
+- **Mantenimiento planificado**: renombra `index.html` a `index.real.html` y
+  `503.html` a `index.html` mientras dure; al terminar, deshaz el cambio.
+- **Mudanza a otro alojamiento** (Netlify, Cloudflare Pages, un VPS con nginx),
+  donde sí se configuran las páginas de error por código.
+
+Si el objetivo es que nunca aparezca una página de GitHub, la única vía es
+servir el sitio detrás de un CDN propio (p. ej. Cloudflare con una Custom Error
+Page) o alojarlo en un servidor donde se controle el 5xx.
+
 ## Publicar
 
 Este repositorio ya es la raíz del sitio (`index.html` está arriba del todo):
