@@ -65,6 +65,6 @@ Antes de publicar hay que rellenar estos huecos (están marcados en el código):
 Este repositorio ya es la raíz del sitio (`index.html` está arriba del todo):
 
 1. `Settings → Pages → Source: main / (root)`.
-2. A los pocos minutos queda en `https://retuertographicdesign.github.io/chat-crm/`.
+2. A los pocos minutos queda en `https://retuertographic.github.io/chtcrm/`.
 
 No hace falta ningún build, ni npm, ni secretos: son archivos estáticos.
