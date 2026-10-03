@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+
+# Rastreadores de IA: permitidos a propósito, para que Chat CRM pueda ser
+# citado por los asistentes. Para bloquear uno, cambia su Allow por Disallow.
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://retuertographic.github.io/chtcrm/sitemap.xml
