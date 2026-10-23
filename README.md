@@ -95,6 +95,6 @@ Page) o alojarlo en un servidor donde se controle el 5xx.
 Este repositorio ya es la raíz del sitio (`index.html` está arriba del todo):
 
 1. `Settings → Pages → Source: main / (root)`.
-2. A los pocos minutos queda en `https://retuertographic.github.io/chtcrm/`.
+2. A los pocos minutos queda en `https://retuertochatcrm.com/`.
 
 No hace falta ningún build, ni npm, ni secretos: son archivos estáticos.

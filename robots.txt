@@ -15,4 +15,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://retuertographic.github.io/chtcrm/sitemap.xml
+Sitemap: https://retuertochatcrm.com/sitemap.xml
