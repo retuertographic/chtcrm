@@ -16,6 +16,7 @@ novedades/<slug>.html       cada artículo, con versión ES y EN en el mismo arc
 novedades-data.json         índice de artículos (título, fecha, extracto, imagen)
 partials/header.html        cabecera común, inyectada en todas las páginas
 partials/footer.html        pie + modal legal (aviso, privacidad, cookies)
+llms.txt                    resumen del producto para asistentes de IA (llmstxt.org)
 assets/site.css             TODO el diseño del sitio (una sola hoja de estilos)
 assets/i18n.js              todos los textos, en español e inglés
 assets/modules.js           el contenido de los 9 módulos de Chat CRM

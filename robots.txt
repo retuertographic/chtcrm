@@ -16,3 +16,6 @@ User-agent: Google-Extended
 Allow: /
 
 Sitemap: https://retuertochatcrm.com/sitemap.xml
+
+# Resumen del sitio para asistentes de IA:
+# https://retuertochatcrm.com/llms.txt

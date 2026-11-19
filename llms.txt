@@ -1,0 +1,69 @@
+# Chat CRM
+
+> Suite omnicanal de atención al cliente desarrollada y distribuida por Retuerto
+> Graphic Design: bandeja de entrada compartida, chatbots con IA, sistema de
+> tickets, base de conocimiento y campañas de WhatsApp. Nueve módulos en una
+> sola plataforma, que sustituyen a varias herramientas sueltas.
+
+Chat CRM reúne en un único panel toda la conversación con el cliente, venga del
+canal que venga: chat web, WhatsApp Business, Messenger, Instagram DM, SMS,
+Telegram, Viber, LINE, WeChat, Zalo y un canal API para cualquier otra
+plataforma.
+
+Su rasgo más diferencial es la inteligencia artificial sin ataduras: el cliente
+usa su propio proveedor y su propia API key — OpenAI, Claude, Gemini, DeepSeek,
+Grok, OpenRouter, HuggingFace o un modelo autoalojado — y controla directamente
+consumo, límites y facturación, sin sobrecostes ni paquetes de créditos.
+
+Todo se configura sin programar: los bots, los flujos y el widget se instalan en
+minutos con plugin o código embebido en WordPress, Shopify, Wix, Joomla,
+OpenCart, Magento, PrestaShop o cualquier otra web.
+
+## Los nueve módulos
+
+- [Bandeja de entrada compartida](https://retuertochatcrm.com/novedades/bandeja-compartida-equipo.html): todos los canales en un inbox de equipo, con agentes asignados por canal, traspaso de chats, notas internas, respuestas con IA y respuestas guardadas.
+- [Canales](https://retuertochatcrm.com/novedades/todos-los-canales-una-bandeja.html): chat web, WhatsApp Business, Messenger, Instagram DM, SMS vía Twilio, Telegram, Viber, LINE, WeChat, Zalo y canal API.
+- [Widget web](https://retuertochatcrm.com/novedades/widget-web-cuatro-paginas.html): un botón con hasta cuatro páginas — inicio, chat en vivo, base de conocimiento y tickets — adaptado a la marca.
+- [Chatbots](https://retuertochatcrm.com/novedades/chatbots-sin-codigo.html): editor visual de flujos sin código, con lógica condicional, acciones externas (webhooks, emails, Telegram, Google Sheets) y traspaso a humano sin perder el contexto.
+- [Inteligencia artificial](https://retuertochatcrm.com/novedades/ia-sin-ataduras-api-key-propia.html): cualquier proveedor con la API key del propio cliente, entrenada con su base de conocimiento, documentos y enlaces.
+- [Base de conocimiento](https://retuertochatcrm.com/novedades/centro-de-ayuda-dominio-propio.html): centro de ayuda de autoservicio publicado en el dominio del cliente, que además alimenta a la IA.
+- [Tickets](https://retuertochatcrm.com/novedades/de-correos-sueltos-a-tickets.html): los emails entrantes se convierten en tickets con todo el hilo, con asignación automática por reglas y estados a medida.
+- [Campañas de WhatsApp](https://retuertochatcrm.com/novedades/campanas-whatsapp-desde-el-panel.html): envíos segmentados desde CSV, JSON o Google Sheets, con plantillas aprobadas y estadísticas de enviados, entregados y leídos.
+- [Integraciones](https://retuertochatcrm.com/novedades/integraciones-recaptcha-sheets-api.html): reCAPTCHA, Cloudflare Turnstile, Telegram, Twilio, Google Sheets y API REST con webhooks.
+
+## Páginas principales
+
+- [Inicio](https://retuertochatcrm.com/): qué es Chat CRM, el detalle de los nueve módulos, los argumentos de venta y el formulario de demo.
+- [Novedades](https://retuertochatcrm.com/novedades.html): artículos sobre cada módulo y notas de versión.
+- [Chat CRM ya está disponible](https://retuertochatcrm.com/novedades/chat-crm-ya-esta-disponible.html): artículo de lanzamiento con el resumen del producto.
+
+## Por qué Chat CRM
+
+- Todo en uno: chat, bandeja multicanal, tickets, centro de ayuda, bots y campañas en una sola herramienta.
+- IA sin ataduras: el cliente elige su proveedor de IA y paga su consumo directamente, sin sobrecostes.
+- Canales sin límite: cobertura muy amplia, incluidos mercados asiáticos, y canal API para cualquier otro.
+- Sin código: bots, flujos y widget se configuran sin programar e instalan en minutos.
+
+## Contacto
+
+- Email: info@retuertographicdesign.com
+- Web de la empresa: https://retuertographicdesign.com
+- Dirección: C. de Calderón de la Barca, 2, Ofi. 3, 38005 Santa Cruz de Tenerife, España
+- Demo: se prepara con los canales reales del cliente antes de contratar.
+- Programa de afiliados: Chat CRM se puede recomendar y revender; las condiciones se piden por email.
+
+## In English
+
+Chat CRM is an omnichannel customer support suite by Retuerto Graphic Design:
+shared inbox, AI chatbots, ticketing, knowledge base and WhatsApp campaigns —
+nine modules on a single platform. Its main differentiator is unrestricted AI:
+each client brings their own provider and API key (OpenAI, Claude, Gemini,
+DeepSeek, Grok, OpenRouter, HuggingFace or a self-hosted model) and controls
+usage, limits and billing directly. Every page of the site is available in
+English through the language switch.
+
+## Notas
+
+- Todas las páginas están en español e inglés; el idioma se cambia con el selector de la cabecera.
+- El sitio es estático y no instala cookies de terceros ni analítica en el momento de escribir esto.
+- Índice completo de URLs: https://retuertochatcrm.com/sitemap.xml
