@@ -68,6 +68,10 @@
   .links{margin-top:36px;padding-top:26px;border-top:1px solid rgba(255,255,255,.12);}
   .links a{color:rgba(255,255,255,.65);font-size:.88rem;text-decoration:none;margin:0 12px;transition:color .2s ease;}
   .links a:hover{color:var(--brand-2);}
+  .credit{margin-top:26px;padding-top:20px;border-top:1px solid rgba(255,255,255,.12);}
+  .credit p{color:rgba(255,255,255,.5);font-size:.76rem;line-height:1.9;margin:0;}
+  .credit a{color:rgba(255,255,255,.7);text-decoration:none;}
+  .credit a:hover{color:var(--brand-2);}
   .lang{
     position:fixed;top:20px;right:20px;z-index:5;
     background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.28);color:#fff;
@@ -102,6 +106,16 @@
     <a href="https://retuertochatcrm.com/novedades.html" id="l2">Novedades</a>
     <a href="https://retuertochatcrm.com/#contacto" id="l3">Contacto</a>
   </div>
+
+  <div class="credit">
+    <p>
+      <span id="cby">Desarrollado por</span>
+      <a href="https://retuertographicdesign.com/" target="_blank" rel="noopener noreferrer">Retuerto Graphic Design</a>.
+      Ricardo Retuerto Barrera | Spain-Germany |
+      <a href="tel:+34922971723">0034 922 971 723</a> ·
+      <a href="tel:+493031878629">0049 30 31878629</a>
+    </p>
+  </div>
 </main>
 
 <script>
@@ -129,6 +143,7 @@
     document.getElementById('l2').textContent = d.l2;
     document.getElementById('l3').textContent = d.l3;
     document.getElementById('langBtn').textContent = d.lang;
+    document.getElementById('cby').textContent = lang === 'en' ? 'Developed by' : 'Desarrollado por';
   }
 
   var lang = 'es';

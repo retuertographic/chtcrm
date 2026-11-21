@@ -80,6 +80,7 @@ const I18N = {
     form_fallback:'Formulario no configurado todavía. Mientras tanto, escríbenos directamente:',
 
     /* ---- Footer / legal ---- */
+    credit_by:'Desarrollado por',
     footer_legal:'Aviso legal',
     footer_privacy:'Política de privacidad',
     footer_cookies:'Política de cookies',
@@ -199,6 +200,7 @@ const I18N = {
     form_fallback:'The form is not configured yet. In the meantime, write to us directly:',
 
     /* ---- Footer / legal ---- */
+    credit_by:'Developed by',
     footer_legal:'Legal notice',
     footer_privacy:'Privacy policy',
     footer_cookies:'Cookie policy',

@@ -332,6 +332,21 @@ footer .f-brand .badge svg{width:18px;height:18px;color:#fff;}
 footer .f-brand span{color:rgba(255,255,255,.5);font-size:.8rem;}
 footer a.cta{color:var(--brand-2);font-weight:600;font-size:.85rem;}
 footer a.cta:hover{color:#fff;}
+footer .f-credit{
+  display:block;margin-top:22px;padding-top:18px;
+  border-top:1px solid rgba(255,255,255,.1);
+}
+footer .f-credit p{
+  color:rgba(255,255,255,.55);font-size:.78rem;line-height:1.9;margin:0;
+}
+footer .f-credit a{color:rgba(255,255,255,.75);text-decoration:none;transition:color .2s ease;}
+footer .f-credit a:hover{color:var(--brand-2);}
+footer .f-credit .sep{opacity:.35;margin:0 2px;}
+@media (max-width:600px){
+  footer .f-credit{text-align:center;}
+  /* hueco para que el botón de volver arriba no pise la firma */
+  footer{padding-bottom:78px;}
+}
 .legal-links{display:flex;gap:18px;flex-wrap:wrap;}
 .legal-links button{
   background:none;border:none;cursor:pointer;font-family:'Inter',system-ui,sans-serif;
